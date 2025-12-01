@@ -1,0 +1,5 @@
+User: Your service is bad
+Sentiment: Negative
+
+User: I feel better today
+Sentiment: Positive
