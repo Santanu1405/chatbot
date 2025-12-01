@@ -9,7 +9,3 @@ A chatbot that:
 - Generates overall mood of the conversation at the end
 
 ---
-
-## How to Run
-
-### 1. Install dependencies
